@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 35,
+      "title": "Queer events"
+    },
+    {
+      "startTime": 105,
+      "title": "One-offs"
+    },
+    {
+      "startTime": 253,
+      "title": "Date ideas"
+    },
+    {
+      "startTime": 300,
+      "title": "On sale soon"
+    },
+    {
+      "startTime": 386,
+      "title": "Smaller theatres"
+    },
+    {
+      "startTime": 420,
+      "title": "Films"
+    },
+    {
+      "startTime": 456,
+      "title": "Food"
+    },
+    {
+      "startTime": 497,
+      "title": "Comedy"
+    }
+  ]
+}

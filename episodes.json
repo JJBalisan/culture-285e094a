@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "no": 1,
+    "date": "2026-10-19",
+    "title": "Sophie Duker and New Year tickets",
+    "summary": "Sophie Duker's new hour and Ginger Johnson's Show Pony at Soho Theatre, New Year's Eve fireworks tickets on sale Friday at noon, and the week's one-offs, films, food and comedy in London.",
+    "file": "audio/ep001.mp3",
+    "bytes": 5189149,
+    "duration": "00:10:23",
+    "music": true,
+    "chapters": "audio/ep001.chapters.json",
+    "cover": "covers/ep001.jpg"
+  }
+]
