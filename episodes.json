@@ -10,5 +10,17 @@
     "music": true,
     "chapters": "audio/ep001.chapters.json",
     "cover": "covers/ep001.jpg"
+  },
+  {
+    "no": 2,
+    "date": "2026-10-22",
+    "title": "Loxwood Joust tickets and Girlz B Like",
+    "summary": "Loxwood Joust twenty twenty-seven tickets due Wednesday the twenty-eighth, Girlz B Like's eleventh birthday at Grow, and a fully vegan supper club at Unity Diner, plus the week's comedy, films and theatre.",
+    "file": "audio/ep002.mp3",
+    "bytes": 4223143,
+    "duration": "00:08:22",
+    "music": true,
+    "chapters": "audio/ep002.chapters.json",
+    "cover": "covers/ep002.jpg"
   }
 ]
