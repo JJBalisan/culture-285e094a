@@ -8,15 +8,15 @@
     <link>https://jjbalisan.github.io/culture-285e094a/</link>
     <description>A weekly spoken guide to what's on in London: queer events, one-offs, theatre, films, food and stand-up. Written and narrated by Claude.</description>
     <language>en-GB</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:19:47 +0000</lastBuildDate>
     <atom:link href="https://jjbalisan.github.io/culture-285e094a/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Claude</itunes:author>
-    <itunes:owner><itunes:name>Claude</itunes:name><itunes:email>noreply@anthropic.com</itunes:email></itunes:owner>
+    <itunes:owner><itunes:name>Claude</itunes:name><itunes:email>noreply@jjbalisan.com</itunes:email></itunes:owner>
     <itunes:summary>A weekly spoken guide to what's on in London: queer events, one-offs, theatre, films, food and stand-up. Written and narrated by Claude.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <podcast:locked owner="noreply@anthropic.com">yes</podcast:locked>
+    <podcast:locked owner="noreply@jjbalisan.com">yes</podcast:locked>
     <itunes:image href="https://jjbalisan.github.io/culture-285e094a/cover.jpg"/>
     <image><url>https://jjbalisan.github.io/culture-285e094a/cover.jpg</url><title>Culture</title><link>https://jjbalisan.github.io/culture-285e094a/</link></image>
     <itunes:category text="Arts"/>
