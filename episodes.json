@@ -36,5 +36,20 @@
     "transcript": "audio/ep003.transcript.html",
     "vtt": "audio/ep003.vtt",
     "cover": "covers/ep003.jpg"
+  },
+  {
+    "no": 4,
+    "date": "2026-11-05",
+    "title": "Loxwood tickets and Jazz Festival nights",
+    "summary": "Loxwood Joust twenty twenty-seven tickets are on sale, Zamar-Eden plays the London Jazz Festival on the fourteenth of November, and Nabil Abdulrashid adds a night at Top Secret on the sixteenth, plus the week's queer nights, theatre, food and comedy.",
+    "file": "audio/ep004.mp3",
+    "bytes": 5590386,
+    "duration": "00:11:13",
+    "music": true,
+    "music_credit": "Music: \u201cShowtime - Cabaret - Revue\u201d by JuliusH (Pixabay).",
+    "chapters": "audio/ep004.chapters.json",
+    "transcript": "audio/ep004.transcript.html",
+    "vtt": "audio/ep004.vtt",
+    "cover": "covers/ep004.jpg"
   }
 ]
