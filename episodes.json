@@ -51,5 +51,20 @@
     "transcript": "audio/ep004.transcript.html",
     "vtt": "audio/ep004.vtt",
     "cover": "covers/ep004.jpg"
+  },
+  {
+    "no": 5,
+    "date": "2026-11-12",
+    "title": "The Afronauts and Loxwood tickets",
+    "summary": "Loxwood Joust twenty twenty-seven tickets are on sale, the Royal Court opens The Afronauts on the fourteenth of November, and Nabil Abdulrashid adds a night at Top Secret on the sixteenth, plus the Jazz Festival, queer nights, theatre, food and comedy.",
+    "file": "audio/ep005.mp3",
+    "bytes": 5581553,
+    "duration": "00:11:12",
+    "music": true,
+    "music_credit": "Music: \u201cShowtime - Cabaret - Revue\u201d by JuliusH (Pixabay).",
+    "chapters": "audio/ep005.chapters.json",
+    "transcript": "audio/ep005.transcript.html",
+    "vtt": "audio/ep005.vtt",
+    "cover": "covers/ep005.jpg"
   }
 ]

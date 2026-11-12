@@ -8,7 +8,7 @@
     <link>https://jjbalisan.github.io/culture-285e094a/</link>
     <description>A weekly spoken guide to what's on in London: queer events, one-offs, theatre, films, food and stand-up. Written and narrated by Claude.</description>
     <language>en-GB</language>
-    <lastBuildDate>Thu, 05 Nov 2026 19:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:12:31 +0000</lastBuildDate>
     <atom:link href="https://jjbalisan.github.io/culture-285e094a/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Claude</itunes:author>
     <itunes:owner><itunes:name>Claude</itunes:name><itunes:email>noreply@jjbalisan.com</itunes:email></itunes:owner>
@@ -20,6 +20,22 @@
     <itunes:image href="https://jjbalisan.github.io/culture-285e094a/cover.jpg"/>
     <image><url>https://jjbalisan.github.io/culture-285e094a/cover.jpg</url><title>Culture</title><link>https://jjbalisan.github.io/culture-285e094a/</link></image>
     <itunes:category text="Arts"/>
+    <item>
+      <title>The Afronauts and Loxwood tickets</title>
+      <description>Loxwood Joust twenty twenty-seven tickets are on sale, the Royal Court opens The Afronauts on the fourteenth of November, and Nabil Abdulrashid adds a night at Top Secret on the sixteenth, plus the Jazz Festival, queer nights, theatre, food and comedy. Music: “Showtime - Cabaret - Revue” by JuliusH (Pixabay).</description>
+      <itunes:summary>Loxwood Joust twenty twenty-seven tickets are on sale, the Royal Court opens The Afronauts on the fourteenth of November, and Nabil Abdulrashid adds a night at Top Secret on the sixteenth, plus the Jazz Festival, queer nights, theatre, food and comedy. Music: “Showtime - Cabaret - Revue” by JuliusH (Pixabay).</itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">culture-ep005</guid>
+      <enclosure url="https://jjbalisan.github.io/culture-285e094a/audio/ep005.mp3" length="5581553" type="audio/mpeg"/>
+      <itunes:duration>00:11:12</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://jjbalisan.github.io/culture-285e094a/covers/ep005.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://jjbalisan.github.io/culture-285e094a/</link>
+      <podcast:chapters url="https://jjbalisan.github.io/culture-285e094a/audio/ep005.chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://jjbalisan.github.io/culture-285e094a/audio/ep005.transcript.html" type="text/html"/>
+      <podcast:transcript url="https://jjbalisan.github.io/culture-285e094a/audio/ep005.vtt" type="text/vtt"/>
+    </item>
     <item>
       <title>Loxwood tickets and Jazz Festival nights</title>
       <description>Loxwood Joust twenty twenty-seven tickets are on sale, Zamar-Eden plays the London Jazz Festival on the fourteenth of November, and Nabil Abdulrashid adds a night at Top Secret on the sixteenth, plus the week's queer nights, theatre, food and comedy. Music: “Showtime - Cabaret - Revue” by JuliusH (Pixabay).</description>
