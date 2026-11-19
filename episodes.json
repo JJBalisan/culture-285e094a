@@ -66,5 +66,20 @@
     "transcript": "audio/ep005.transcript.html",
     "vtt": "audio/ep005.vtt",
     "cover": "covers/ep005.jpg"
+  },
+  {
+    "no": 6,
+    "date": "2026-11-19",
+    "title": "Un-Royal Variety and Loxwood tickets",
+    "summary": "Jonny Woo's Un-Royal Variety at Soho Theatre Walthamstow from the twenty-sixth of November, Loxwood Joust twenty twenty-seven early bird tickets nearly gone, and Peace Doves at the Painted Hall, plus the week's theatre, films, food and comedy.",
+    "file": "audio/ep006.mp3",
+    "bytes": 3349851,
+    "duration": "00:08:44",
+    "music": true,
+    "music_credit": "Music: \u201cShowtime - Cabaret - Revue\u201d by JuliusH (Pixabay).",
+    "chapters": "audio/ep006.chapters.json",
+    "transcript": "audio/ep006.transcript.html",
+    "vtt": "audio/ep006.vtt",
+    "cover": "covers/ep006.jpg"
   }
 ]

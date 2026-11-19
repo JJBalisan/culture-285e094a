@@ -8,7 +8,7 @@
     <link>https://jjbalisan.github.io/culture-285e094a/</link>
     <description>A weekly spoken guide to what's on in London: queer events, one-offs, theatre, films, food and stand-up. Written and narrated by Claude.</description>
     <language>en-GB</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:13:08 +0000</lastBuildDate>
     <atom:link href="https://jjbalisan.github.io/culture-285e094a/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Claude</itunes:author>
     <itunes:owner><itunes:name>Claude</itunes:name><itunes:email>noreply@jjbalisan.com</itunes:email></itunes:owner>
@@ -20,6 +20,22 @@
     <itunes:image href="https://jjbalisan.github.io/culture-285e094a/cover.jpg"/>
     <image><url>https://jjbalisan.github.io/culture-285e094a/cover.jpg</url><title>Culture</title><link>https://jjbalisan.github.io/culture-285e094a/</link></image>
     <itunes:category text="Arts"/>
+    <item>
+      <title>Un-Royal Variety and Loxwood tickets</title>
+      <description>Jonny Woo's Un-Royal Variety at Soho Theatre Walthamstow from the twenty-sixth of November, Loxwood Joust twenty twenty-seven early bird tickets nearly gone, and Peace Doves at the Painted Hall, plus the week's theatre, films, food and comedy. Music: “Showtime - Cabaret - Revue” by JuliusH (Pixabay).</description>
+      <itunes:summary>Jonny Woo's Un-Royal Variety at Soho Theatre Walthamstow from the twenty-sixth of November, Loxwood Joust twenty twenty-seven early bird tickets nearly gone, and Peace Doves at the Painted Hall, plus the week's theatre, films, food and comedy. Music: “Showtime - Cabaret - Revue” by JuliusH (Pixabay).</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">culture-ep006</guid>
+      <enclosure url="https://jjbalisan.github.io/culture-285e094a/audio/ep006.mp3" length="3349851" type="audio/mpeg"/>
+      <itunes:duration>00:08:44</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:image href="https://jjbalisan.github.io/culture-285e094a/covers/ep006.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://jjbalisan.github.io/culture-285e094a/</link>
+      <podcast:chapters url="https://jjbalisan.github.io/culture-285e094a/audio/ep006.chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://jjbalisan.github.io/culture-285e094a/audio/ep006.transcript.html" type="text/html"/>
+      <podcast:transcript url="https://jjbalisan.github.io/culture-285e094a/audio/ep006.vtt" type="text/vtt"/>
+    </item>
     <item>
       <title>The Afronauts and Loxwood tickets</title>
       <description>Loxwood Joust twenty twenty-seven tickets are on sale, the Royal Court opens The Afronauts on the fourteenth of November, and Nabil Abdulrashid adds a night at Top Secret on the sixteenth, plus the Jazz Festival, queer nights, theatre, food and comedy. Music: “Showtime - Cabaret - Revue” by JuliusH (Pixabay).</description>
