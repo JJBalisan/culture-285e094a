@@ -10,4 +10,7 @@ This repo holds data only: `show.json` (the show's feed settings),
 shared kit (`podcast-kit`):
 `~/.local/share/threshold-and-bar/bin/publish_episode.py` adds an episode,
 and `python3 ~/.local/share/threshold-and-bar/bin/build_feed.py .` rebuilds
-`feed.xml` by hand.
+`feed.xml` by hand on the Mac. On the Windows PC use the kit's
+`venv-mlx/bin/python` wrapper with `PYTHONUTF8=1` set: without it the
+rebuild writes cp1252 bytes and CRLF line ends into a feed that declares
+UTF-8 (podcast-kit #58).

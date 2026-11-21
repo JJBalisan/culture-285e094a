@@ -8,6 +8,7 @@
     "bytes": 5189149,
     "duration": "00:10:23",
     "music": true,
+    "music_credit": "Music: intro and interludes from \u201cDans la tentative d\u2019accomplir quelque chose\u201d by Frederic Lardon feat. Laura Palm\u00e9e (CC0). Outro: \u201cCrap Transition\u201d by Jesse Spillane, https://freemusicarchive.org/music/Jesse_Spillane/Art_of_Presentation/Jesse_Spillane_-_Art_of_Presentation_-_04_Crap_Transition/ licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); trimmed, faded and mixed with narration.",
     "chapters": "audio/ep001.chapters.json",
     "cover": "covers/ep001.jpg"
   },
@@ -20,6 +21,7 @@
     "bytes": 4223143,
     "duration": "00:08:22",
     "music": true,
+    "music_credit": "Music: intro and interludes from \u201cDans la tentative d\u2019accomplir quelque chose\u201d by Frederic Lardon feat. Laura Palm\u00e9e (CC0). Outro: \u201cCrap Transition\u201d by Jesse Spillane, https://freemusicarchive.org/music/Jesse_Spillane/Art_of_Presentation/Jesse_Spillane_-_Art_of_Presentation_-_04_Crap_Transition/ licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); trimmed, faded and mixed with narration.",
     "chapters": "audio/ep002.chapters.json",
     "cover": "covers/ep002.jpg"
   },
@@ -32,6 +34,7 @@
     "bytes": 4429932,
     "duration": "00:08:48",
     "music": true,
+    "music_credit": "Music: intro and interludes from \u201cDans la tentative d\u2019accomplir quelque chose\u201d by Frederic Lardon feat. Laura Palm\u00e9e (CC0). Outro: \u201cCrap Transition\u201d by Jesse Spillane, https://freemusicarchive.org/music/Jesse_Spillane/Art_of_Presentation/Jesse_Spillane_-_Art_of_Presentation_-_04_Crap_Transition/ licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); trimmed, faded and mixed with narration.",
     "chapters": "audio/ep003.chapters.json",
     "transcript": "audio/ep003.transcript.html",
     "vtt": "audio/ep003.vtt",
